@@ -18,7 +18,7 @@ Quando saí da FAB trabalhei muitos anos na área administrativa, sempre tentand
 
 Em 2005 iniciei o curso de Sistemas de Informação e me especializei em Gestão Empresarial. OK, devem estar se perguntando o "nada a ver" uma área com a outra, pois bem, vou explicar.
 
-Como disse antes, minha vida profissional foi toda voltada para a área administrativa e não consegui ingressar na de TI. Até tentei em algumas empresas que passei, sem sucesso. Então, na ocasião, era interessante seguir no setor administrastivo e foi o que fiz, cursei o MBA em Gestão Empresarial. Infelizmente, descontente e um pouco desmotivado, decidi me esforçar para retornar para a TI, e, como já trabalhava com dados em Excel, adentrei para o Power Query, Power Pivot, Power BI e agora estou aqui, trocando de carreira, naquela ansiedade de começar do zero, mas enpolgado e muitíssimo motivado para desvebdar tudo o que Ciência de Dados tem para oferecer, setor que pretendo concluir minha carreira.
+Como disse antes, minha vida profissional foi toda voltada para a área administrativa e não consegui ingressar na de TI. Até tentei em algumas empresas que passei, sem sucesso. Então, na ocasião, era interessante seguir no setor administrastivo e foi o que fiz, cursei o MBA em Gestão Empresarial. Infelizmente, descontente e um pouco desmotivado, decidi me esforçar para retornar para a TI, e, como já trabalhava com dados em Excel, adentrei para o Power Query, Power Pivot, Power BI e agora estou aqui, trocando de carreira, naquela ansiedade de começar do zero, mas enpolgado e muitíssimo motivado para desvendar tudo o que a Ciência de Dados tem para oferecer, setor que pretendo concluir minha carreira.
 
 **Background in:** Python, Machine Learning
 
