@@ -8,15 +8,17 @@ Meus Modelos de Data Science
 
 <sub>*Aprendiz em Ciências de Dados*</sub>
 
-Iniciei em Ciências de Dados já com idade avançada, porém, não há idade para se iniciar nada, pois, tudo está em como você enfrenta o desafio.
+Iniciei em Ciências de Dados já com idade avançada, porém, não há idade para se iniciar nada, tudo está em como você enfrenta o desafio.
 
-Iniciei minha vida profissional na Força Aérea Brasileira (FAB), onde atuei na Divisão de Informática, área que já tinha feito alguns cursos de programação (MS-DOS, Lotus 1-2-3 entre outros). Tomei gosto pela área de informática desde cedo, então decidi seguir carreita nessa área, mas a vida me fez seguir por outros rumos.
+Já tinha me interessado na área de informática desde 1990 quando fiz alguns cursos de programação (MS-DOS, Lotus 1-2-3 e WordStar). Esses três cursos me ajudaram à ingressar na **Força Aérea Brasileira (FAB)**, onde atuei na Divisão de Informática.
 
-Quando saí da FAB trabalhei durante 9 anos na área admnistrativa mas sempre tentando voltar para Tecnologia da Informação (TI) até que tive a oportunidade de fazer um curso superior.
+Gostaria de ter seguido carreita, mas a vida me fez seguir por outros ramos profissionais.
 
-Me formei em Sistemas de Informação e me especializei em Gestão Empresarial. OK, devem estar se perguntando o "nada a ver" uma área com a outra, pois bem, vou explicar.
+Quando saí da FAB trabalhei muitos anos na área administrativa, sempre tentando voltar para Tecnologia da Informação (TI)
 
-Como disse antes, minha vida profissional foi toda voltada para a área administrativa e não consegui ingressar na área de TI. Até tentei em algumas empresas que passei, sem sucesso. Então, na ocasião, era interessante investir na área administrastiva e foi o que fiz. Infelizmente, descontente com a área, me esforcei ao máximo para retornar à área que tanto estimo, TI, e, como já trabalhava com dados em Excel, adentrei para o Power Query, Power Pivot, Power BI e aqui estou me intrometendo como Cientista de Dados, setor que pretendo concluir minha carreira.
+Em 2005 iniciei o curso de Sistemas de Informação e me especializei em Gestão Empresarial. OK, devem estar se perguntando o "nada a ver" uma área com a outra, pois bem, vou explicar.
+
+Como disse antes, minha vida profissional foi toda voltada para a área administrativa e não consegui ingressar na de TI. Até tentei em algumas empresas que passei, sem sucesso. Então, na ocasião, era interessante seguir no setor administrastivo e foi o que fiz, cursei o MBA em Gestão Empresarial. Infelizmente, descontente e um pouco desmotivado, decidi me esforçar para retornar para a TI, e, como já trabalhava com dados em Excel, adentrei para o Power Query, Power Pivot, Power BI e agora estou aqui, trocando de carreira, naquela ansiedade de começar do zero, mas enpolgado e muitíssimo motivado para desvebdar tudo o que Ciência de Dados tem para oferecer, setor que pretendo concluir minha carreira.
 
 **Background in:** Python, Machine Learning
 
@@ -25,10 +27,8 @@ Como disse antes, minha vida profissional foi toda voltada para a área administ
 * [Medium](https://medium.com/@alves.anselmo)
 
 ## Projetos:
-Veja alguns trabalhos publicados:
+Alguns trabalhos publicados:
 * **1: Aprendendo Séries Temporais - Parte - 01:** https://colab.research.google.com/drive/1Cy7mrQSK8ZPmQSeXlrUOPuQN4WaiZH2t
 * **2: Acidentes de Trânsito no Estado de São Paulo:** https://bit.ly/3cJErx1
 * **3: Criminalidade no Estado de São Paulo:** https://colab.research.google.com/drive/1E7TXCXWetGdfu5a2hYXNFHMJtK_uXvKf
 * **4: COVID-19 - Previsões:** https://colab.research.google.com/drive/1RX-QU08-59HFnz0oUxv8QFHo6KsBQNrK
-* **5: PYRENTENA - Introdução à Deep Learning: Em breve**
-
