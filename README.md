@@ -32,3 +32,4 @@ Alguns trabalhos publicados:
 * **2: Acidentes de Trânsito no Estado de São Paulo:** https://bit.ly/3cJErx1
 * **3: Criminalidade no Estado de São Paulo:** https://colab.research.google.com/drive/1E7TXCXWetGdfu5a2hYXNFHMJtK_uXvKf
 * **4: COVID-19 - Previsões:** https://colab.research.google.com/drive/1RX-QU08-59HFnz0oUxv8QFHo6KsBQNrK
+* **5: Analisando os Dados do Airbnb (Nova Iorque):** https://bit.ly/3d6rIow
