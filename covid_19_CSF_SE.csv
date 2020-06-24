@@ -1,4 +1,4 @@
-Data;Casos_Confirmados;Casos_em_Monitoramento_Domiciliar;Casos_Suspeitos;Casos_Descartados;Curados;Obitos;Pessoas_em_Recuperacao;Incio_da_Acao;Dia_da_Semana
+Data,Casos_Confirmados,Casos_em_Monitoramento_Domiciliar,Casos_Suspeitos,Casos_Descartados,Curados,Obitos,Pessoas_em_Recuperacao,Incio_da_Acao,Dia_da_Semana
 31/mar/2020;0;47;0;0;0;0;0;0;QUI
 01/abr/2020;0;47;0;0;0;0;0;0;SEX
 02/abr/2020;0;47;0;0;0;0;0;1;SAB
